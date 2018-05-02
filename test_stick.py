@@ -12,5 +12,3 @@ print("Devices were found!")
 
 for device in devices:
   print("Device", device)
-
-
